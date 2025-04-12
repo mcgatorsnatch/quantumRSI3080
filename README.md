@@ -1,0 +1,1 @@
+This example.md showcases practical usage of the Quantum-Enhanced AGI Framework, a Python-based system for task planning, execution, and memory management with quantum-inspired optimization and ethical governance. These examples demonstrate core functionalities like multi-turn chat, task decomposition, and semantic memory search, optimized for the NVIDIA RTX 4090.
